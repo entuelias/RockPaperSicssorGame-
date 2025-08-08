@@ -1,10 +1,5 @@
 # 🪨 Rock Paper Scissors - Console Game
 
-![GitHub repo size](https://img.shields.io/github/repo-size/entuelias/rock-paper-scissors)
-![GitHub last commit](https://img.shields.io/github/last-commit/entuelias/rock-paper-scissors)
-![GitHub language count](https://img.shields.io/github/languages/count/entuelias/rock-paper-scissors)
-![GitHub top language](https://img.shields.io/github/languages/top/entuelias/rock-paper-scissors)
-
 A simple and fun Rock Paper Scissors game built with HTML and JavaScript.  
 It runs entirely in the browser console (Inspect → Console tab).
 
